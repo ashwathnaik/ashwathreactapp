@@ -9,12 +9,11 @@ function App() {
         <p>
           Ammi Kutti Version 2.0 koooi
         </p>
-        <a
+        <a>
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
           Learn React
         </a>
       </header>
